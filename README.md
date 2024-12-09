@@ -1,4 +1,4 @@
-# DE_streaming-Python
+# DE_streaming_Python
 
 ![Streamlit Dashboard Demo](streamlit-dashboard.gif)
 
