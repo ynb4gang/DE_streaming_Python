@@ -1,5 +1,7 @@
 # DE_streaming-Python
 
+![Streamlit Dashboard Demo](streamlit-dashboard.gif)
+
 ## Overview
 
 `DE_streaming_Python` is a real-time streaming and data aggregation system built in Python. It simulates streaming real estate data, processes the data, and presents the results through a dynamic Streamlit dashboard. This system handles large datasets, aggregates key metrics, and visualizes the data in real-time.
