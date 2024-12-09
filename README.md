@@ -79,7 +79,7 @@ The `dashboard.py` file hosts the **Streamlit** dashboard:
 
 With this flow, you can analyze and visualize real estate data as it streams, ensuring timely insights and actions.
 
-## 6. Running the Application
+## Running the Application
 
 To run the application, follow these steps:
 
